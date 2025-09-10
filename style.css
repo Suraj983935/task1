@@ -1,0 +1,254 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.common {
+    width: 60%;
+    height: 100%;
+}
+
+.heading {
+    text-align: center;
+    padding: 1rem;
+    background-color: white;
+    font-size: 2rem;
+    margin-top: 2rem;
+    border-radius: 8px;
+    color: blue;
+
+}
+
+
+.formdiv {
+    margin-top: 2rem;
+    background-color: rgb(253, 238, 247);
+    height: 100%;
+    border-radius: 10px;
+
+
+}
+
+.secondheading {
+    padding: 1rem;
+    font-size: 2rem;
+    background: linear-gradient(to right, blueviolet, palevioletred);
+    text-align: center;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.maintance {
+    padding: 1rem;
+}
+
+.firstline {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+
+}
+
+
+
+.lab {
+    display: inline-block;
+    margin-bottom: 2px;
+    font-size: 1.3rem;
+}
+
+.firstinput {
+    padding: 0.6rem;
+    font-size: 1rem;
+    width: 25rem;
+    margin-right: 3rem;
+
+}
+
+.dateofbirth {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+
+
+.dayselect,
+.monthselect,
+.yearselect,
+.leftrightcenter {
+    padding: 0.6rem;
+    font-size: 1rem;
+    width: 15.6rem;
+    margin-right: 3rem;
+}
+
+
+.male,
+.female {
+    font-size: 1.4rem;
+    margin-right: 1.3rem;
+}
+
+.third {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.mess {
+    font-size: 1rem;
+    width: 96%;
+    height: 5rem;
+    padding-left: 4px;
+}
+
+
+.fourth {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+
+
+
+
+
+
+.but {
+    display: flex;
+    justify-content: end;
+    padding: 3rem;
+}
+
+button {
+    padding: 0.4rem 1rem 0.4rem 1rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    margin-right: 1rem;
+    border: none;
+
+}
+
+.butdesign {
+    background: linear-gradient(to right, rgb(174, 84, 237), rgb(234, 72, 157));
+    color: white;
+}
+
+.footering {
+    text-align: center;
+    padding: 1rem;
+    background-color: white;
+    font-size: 2rem;
+    border-radius: 8px;
+    color: rgb(51, 208, 161);
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    font-weight: bold;
+
+}
+
+.slec {
+    padding: 0.6rem;
+    font-size: 1rem;
+    width: 95%;
+    margin-right: 3rem;
+}
+
+.country {
+    margin-bottom: 1rem;
+}
+
+.hobbies {
+    display: flex;
+    gap: 13rem;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+
+}
+
+.arrange {
+    display: flex;
+    gap: 14.7rem;
+    font-size: 1.4rem;
+
+}
+
+.tables {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.qualifica {
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+.coursediv {
+    font-size: 1.4rem;
+}
+
+.ml {
+    margin-left: 1rem;
+}
+
+.tabdesign {
+    border: 1px solid black;
+    width: 95%;
+}
+
+.head {
+
+    font-size: 1.2rem;
+    font-weight: lighter;
+    color: rgb(80, 78, 78);
+}
+
+
+.design {
+    height: 4rem;
+    width: 7rem;
+    background-color: whitesmoke;
+    border-bottom: 1px solid black;
+    padding: 0.5rem;
+
+
+}
+
+.trd {
+    text-align: center;
+    font-size: 1.3rem;
+
+}
+
+.remove {
+    border-bottom: none;
+}
+
+.pd {
+    padding: 0.7rem;
+    border-bottom: 1px solid black;
+    background-color: rgb(242, 243, 244);
+}
+
+.tbbox {
+    height: 100%;
+    width: 100%;
+    border: 1px solid black;
+
+}
